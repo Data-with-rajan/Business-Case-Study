@@ -107,17 +107,6 @@ The market research team at AeroFit aims to:
 - Matplotlib/Seaborn for visualization
 - Statistical analysis tools
 
-## 📊 Repository Structure
-```
-aerofit-analysis/
-├── data/
-│   └── Aerofit_treadmill.csv
-├── notebooks/
-│   └── analysis.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## 🚀 Getting Started
 1. Clone the repository
 2. Install required packages: `pip install -r requirements.txt`
