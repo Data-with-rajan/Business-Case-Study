@@ -107,11 +107,5 @@ The market research team at AeroFit aims to:
 - Matplotlib/Seaborn for visualization
 - Statistical analysis tools
 
-## 🚀 Getting Started
-1. Clone the repository
-2. Install required packages: `pip install -r requirements.txt`
-3. Open and run the analysis notebook
-4. Follow the analysis steps detailed in the notebook
-
 ## 📝 Note
 This case study represents real-world business scenarios and focuses on developing practical data analysis and decision-making skills.
